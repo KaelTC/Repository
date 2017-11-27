@@ -15,7 +15,7 @@ int main()
 	scanf_s("%lf", &A);
 	S = A*A;
 	P = A * 4;
-	printf("S = %lf\n", S); //privet vsem
+	printf("S = %lf\n", S); //chto eto za 
 	printf("P = %lf\n", P);
 
 
