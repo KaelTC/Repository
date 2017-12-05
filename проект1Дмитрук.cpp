@@ -9,7 +9,7 @@ using namespace std;
 
 int main()
 {
-    double A, P, S;
+    double A, P, S;апрап
     
 	printf("input A: "); //abcdcgh
 	scanf_s("%lf", &A);
